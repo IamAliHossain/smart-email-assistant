@@ -3,13 +3,13 @@
 ## Overview
 The Smart Email Assistant is a Chrome extension that helps users generate AI-powered email replies directly within Gmail. This extension leverages a backend SpringBoot API to produce professional, casual, friendly, and formal replies based on the user's selection.
 
-[![Alt text](https://github.com/suyash-rgb/Smart-Email-Assistant/raw/main/img/6622a10b71418bc54de60544_xg39csze28.webp)](https://www.youtube.com/watch?v=wTNfwma_LSM)
+
 
 I have developed a REST API using SpringBoot that serves as a wrapper for Google's Gemini API. This API generates a reply to a specific email based on the content captured from the email and the selected tone.
 
 One can always create a web application but when it comes to emails its best to basically integrate the reply functionality into your email application/platform/service, which is what I have done.
 
-[![Gmail](https://github.com/suyash-rgb/Smart-Email-Assistant/raw/main/img/gmail-1.jpeg)](https://github.com/suyash-rgb/Smart-Email-Assistant/blob/main/img/gmail-1.jpeg)
+
 
 Gmail, launched by Google on April 1, 2004, revolutionized email with its user-friendly interface, robust search capabilities, and generous storage space. 
 Initially available by invitation only, it quickly gained popularity due to its innovative features like conversation view and powerful spam filtering. Today, Gmail boasts over 1.8 billion users worldwide, holding a significant 28.78% share of the global email market. It remains a dominant force in the email industry, with a substantial user base in countries like the United States, India, and Indonesia2.
