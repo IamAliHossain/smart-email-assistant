@@ -20,9 +20,7 @@ In case of a web application, one would basically be required to copy the conten
 You can integrate you web application into Gmail's UI by creating a Chrome extension and loading it.
 You can also publish this extension if you like.
 
-[![Gmail](https://github.com/suyash-rgb/Smart-Email-Assistant/raw/main/img/Email.png)](https://github.com/suyash-rgb/Smart-Email-Assistant/blob/main/img/Email.png)
 
-[![Gmail](https://github.com/suyash-rgb/Smart-Email-Assistant/raw/main/img/generated%20reply.png)](https://github.com/suyash-rgb/Smart-Email-Assistant/blob/main/img/generated%20reply.png)
 
 ## What is a Chrome extension?
 A Chrome extension is a small software program that enhances the functionality of the Google Chrome browser. It allows you to add new features or modify the behavior of websites you visit.
